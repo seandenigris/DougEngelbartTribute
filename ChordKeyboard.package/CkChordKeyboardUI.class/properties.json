@@ -1,0 +1,15 @@
+{
+	"category" : "ChordKeyboard-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 3/13/2015 21:05",
+	"instvars" : [
+		"keysPressedUI",
+		"outputDescriptionUI" ],
+	"name" : "CkChordKeyboardUI",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

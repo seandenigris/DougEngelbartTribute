@@ -1,0 +1,4 @@
+accessing
+offset
+
+	^ 1

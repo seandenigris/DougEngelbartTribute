@@ -1,0 +1,14 @@
+{
+	"category" : "ChordKeyboard-Core-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isPressed" ],
+	"name" : "CkChordKey",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

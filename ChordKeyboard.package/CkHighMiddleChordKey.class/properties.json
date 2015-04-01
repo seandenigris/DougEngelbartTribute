@@ -1,0 +1,14 @@
+{
+	"category" : "ChordKeyboard-Core-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CkHighMiddleChordKey",
+	"pools" : [
+		 ],
+	"super" : "CkChordKey",
+	"type" : "normal" }

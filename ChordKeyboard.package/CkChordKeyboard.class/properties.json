@@ -1,0 +1,18 @@
+{
+	"category" : "ChordKeyboard-Core",
+	"classinstvars" : [
+		"uniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 4/1/2015 12:01",
+	"instvars" : [
+		"isEnabled",
+		"keys",
+		"hardwareKeysPressed",
+		"specialValueMap",
+		"hasRightHandLayout" ],
+	"name" : "CkChordKeyboard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

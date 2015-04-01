@@ -1,0 +1,14 @@
+{
+	"category" : "ChordKeyboard-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CkNullAction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
