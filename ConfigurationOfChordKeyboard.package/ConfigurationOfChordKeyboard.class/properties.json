@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfChordKeyboard",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "SeanDeNigris 3/27/2015 13:29",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfChordKeyboard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
